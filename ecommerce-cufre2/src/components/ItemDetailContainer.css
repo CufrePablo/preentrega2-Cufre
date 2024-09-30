@@ -1,0 +1,6 @@
+.producto-imagen-detalle{
+
+    width: 300px; /* O el tamaño que desees */
+  overflow: hidden; /* Oculta parte de la imagen si excede el contenedor */
+
+}
